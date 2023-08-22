@@ -1,5 +1,4 @@
-Overview of AI Applications for Work-Life Balance in Stress Management
-========================================================================================================================
+
 
 Artificial Intelligence (AI) technology can help individuals achieve better work-life balance by providing personalized recommendations and insights. In this chapter, we will provide an overview of AI applications for work-life balance in stress management.
 
