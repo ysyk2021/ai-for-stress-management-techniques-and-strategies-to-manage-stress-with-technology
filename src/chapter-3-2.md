@@ -1,5 +1,4 @@
 
-
 Before implementing AI solutions for stress management, it's important to evaluate the availability and quality of data that will be used to train and develop AI algorithms. In this chapter, we will discuss how to prepare for AI implementation in stress management by evaluating data availability and quality.
 
 Understanding Relevant Data Sources

@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to revolutionize stress management by providing personalized and effective solutions. In this chapter, we will discuss the various types of AI used for stress management.
 
 Machine Learning Algorithms

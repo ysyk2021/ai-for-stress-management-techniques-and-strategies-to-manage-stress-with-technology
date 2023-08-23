@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to revolutionize stress management by providing personalized and effective solutions. In this chapter, we will define AI-powered stress management and discuss its potential benefits.
 
 Defining AI-Powered Stress Management
