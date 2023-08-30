@@ -8,3 +8,7 @@ In addition, this book will cover the ethical considerations around the use of A
 Whether you are someone who struggles with stress and anxiety on a daily basis, or a professional looking to stay ahead of the curve in the field of mental health, this book has something for everyone. So, let's dive in and discover the exciting world of AI for stress management!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
